@@ -35,7 +35,7 @@ summed_abs_bias <- function(df, G, S, B) {
 }
 
 # Put in updated metals totals
-results <- summed_abs_bias(medals, G = 11, S = 12, B = 9)
+results <- summed_abs_bias(medals, G = 12, S = 12, B = 9)
 #update the results as Olympics progress
 
 # Sort by best (lowest) absolute summed bias bias
